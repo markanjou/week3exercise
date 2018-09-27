@@ -1,0 +1,26 @@
+.navbar ul li {
+	display: inline-block;
+}
+
+.navbar ul li a:hover {
+	background-color: yellow;
+	border-style: solid;
+	transition: 0.5s ease;
+	color: red;
+	text-size: 150%;
+	
+}
+
+.main {
+	text-align: center;
+}
+
+.button {
+	border: 2px solid black;
+	padding: 10px;
+}
+
+.button:hover {
+	background-color: green;
+	color: white;
+}
